@@ -104,7 +104,7 @@ Currently hardcoded in `types.go`:
 
 ## Requirements
 
-- Go 1.25 or later
+- Go 1.24 or later
 
 ## License
 
