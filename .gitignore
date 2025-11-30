@@ -1,0 +1,20 @@
+# Ignore everything
+*
+
+# But not these files...
+!.editorconfig
+!.github
+!/.gitignore
+!.golangci.yml
+!.pre-commit-config.yaml
+
+!*.go
+!go.sum
+!go.mod
+
+!LICENSE
+!Makefile
+!README.md
+
+# ...even if they are in subdirectories
+!*/
