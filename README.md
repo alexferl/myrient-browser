@@ -1,5 +1,7 @@
 # myrient-browser
 
+RIP [myrient](https://myrient.erista.me/) :(
+
 A terminal-based file browser and downloader for [Myrient](https://myrient.erista.me/files/), featuring concurrent downloads, resume support, automatic extraction, and a clean TUI interface built with [Bubble Tea](https://github.com/charmbracelet/bubbletea).
 
 ## Features
